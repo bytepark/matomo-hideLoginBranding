@@ -1,0 +1,6 @@
+# Local tooling
+.claude/
+.mcp.json
+.idea/
+.vscode/
+.DS_Store

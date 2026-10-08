@@ -1,0 +1,22 @@
+{
+    "name": "HideLoginBranding",
+    "description": "Hides the \"What's New\" panel on the login page and removes the matomo.org links from the login logo and below the login form.",
+    "version": "1.0.0",
+    "theme": false,
+    "require": {
+        "matomo": ">=5.14.0,<6.0.0-b1"
+    },
+    "authors": [
+        {
+            "name": "bytepark GmbH",
+            "homepage": "https://www.bytepark.de"
+        }
+    ],
+    "homepage": "https://github.com/bytepark/matomo-hideLoginBranding",
+    "support": {
+        "issues": "https://github.com/bytepark/matomo-hideLoginBranding/issues",
+        "source": "https://github.com/bytepark/matomo-hideLoginBranding"
+    },
+    "license": "MIT",
+    "keywords": ["login", "branding", "whats new"]
+}
